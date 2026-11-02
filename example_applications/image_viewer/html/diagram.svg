@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img" aria-label="Fileview dispatch diagram">
+	<defs>
+		<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" stop-color="#FAEDCD"/>
+			<stop offset="1" stop-color="#EAD9B0"/>
+		</linearGradient>
+		<linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0" stop-color="#2E7D74"/>
+			<stop offset="1" stop-color="#21645C"/>
+		</linearGradient>
+	</defs>
+	<rect x="0" y="0" width="640" height="400" fill="url(#bg)"/>
+	<text x="320" y="44" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#264653">vector graphic · rendered by the image lens</text>
+
+	<rect x="250" y="80" width="140" height="56" rx="10" fill="url(#chip)"/>
+	<text x="320" y="114" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FAEDCD">descriptor</text>
+
+	<g font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FAEDCD">
+		<rect x="40"  y="230" width="120" height="48" rx="9" fill="#E76F51"/><text x="100" y="259" text-anchor="middle">text / code</text>
+		<rect x="180" y="230" width="120" height="48" rx="9" fill="#E9A23B"/><text x="240" y="259" text-anchor="middle">markdown</text>
+		<rect x="320" y="230" width="120" height="48" rx="9" fill="#2E7D74"/><text x="380" y="259" text-anchor="middle">image</text>
+		<rect x="460" y="230" width="140" height="48" rx="9" fill="#5A6B7B"/><text x="530" y="259" text-anchor="middle">download card</text>
+	</g>
+
+	<g stroke="#264653" stroke-width="2.5" fill="none" opacity="0.7">
+		<path d="M300 136 C 220 180, 130 190, 100 230"/>
+		<path d="M305 136 C 270 180, 250 190, 240 230"/>
+		<path d="M335 136 C 360 180, 372 190, 380 230"/>
+		<path d="M340 136 C 440 180, 500 190, 530 230"/>
+	</g>
+	<text x="320" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5A6B7B">one orchestrator · a score-tier registry · a child section per kind</text>
+</svg>

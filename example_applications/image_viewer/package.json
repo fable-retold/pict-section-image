@@ -1,0 +1,38 @@
+{
+	"name": "image_viewer_example",
+	"version": "1.0.0",
+	"description": "Example standalone image viewer — four pict-section-image instances (raster, wide panorama for zoom/pan, tall PNG, and a vector SVG) each with the Fit / zoom / download toolbar",
+	"main": "ImageViewer-Example-Application.js",
+	"scripts": {
+		"start": "node ImageViewer-Example-Application.js",
+		"build": "npx quack build && npx quack copy"
+	},
+	"author": "steven",
+	"license": "MIT",
+	"copyFilesSettings": {
+		"whenFileExists": "overwrite"
+	},
+	"copyFiles": [
+		{
+			"from": "./html/*",
+			"to": "./dist/"
+		},
+		{
+			"from": "../../node_modules/pict/dist/*",
+			"to": "./dist/"
+		}
+	],
+	"dependencies": {
+		"pict": "^1.0.348",
+		"pict-application": "^1.0.19",
+		"pict-view": "^1.0.66"
+	},
+	"retold": {
+		"ExampleApplication": {
+			"Stage": true,
+			"Title": "Image Viewer",
+			"Summary": "Four standalone pict-section-image instances — a raster photo, a wide panorama to zoom and pan, a tall PNG, and a vector SVG — each with its own Fit / zoom-in / zoom-out / download toolbar.",
+			"Complexity": "Basic"
+		}
+	}
+}

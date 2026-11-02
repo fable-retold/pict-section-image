@@ -1,0 +1,8 @@
+{
+    "EntrypointInputSourceFile": "/Users/steven/Code/retold/modules/pict/pict-section-image/example_applications/image_viewer/ImageViewer-Example-Application.js",
+    "LibraryObjectName": "ImageViewerExample",
+    "LibraryOutputFolder": "/Users/steven/Code/retold/modules/pict/pict-section-image/example_applications/image_viewer/dist/",
+    "LibraryUniminifiedFileName": "image_viewer_example.compatible.js",
+    "LibraryMinifiedFileName": "image_viewer_example.compatible.min.js",
+    "BrowserifyIgnore": []
+}
