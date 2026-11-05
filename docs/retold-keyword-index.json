@@ -1,0 +1,4245 @@
+{
+	"Generated": "2026-11-02T16:06:49.158Z",
+	"Mode": "module",
+	"DocumentCount": 6,
+	"LunrIndex": {
+		"version": "2.3.9",
+		"fields": [
+			"title",
+			"module",
+			"group",
+			"body"
+		],
+		"fieldVectors": [
+			[
+				"title/README.md",
+				[
+					0,
+					3.461,
+					1,
+					3.263,
+					2,
+					3.63
+				]
+			],
+			[
+				"module/README.md",
+				[
+					0,
+					2.084,
+					1,
+					1.965,
+					2,
+					2.186
+				]
+			],
+			[
+				"group/README.md",
+				[]
+			],
+			[
+				"body/README.md",
+				[
+					0,
+					0.434,
+					1,
+					0.409,
+					2,
+					0.821,
+					3,
+					0.703,
+					4,
+					0.111,
+					5,
+					1.051,
+					6,
+					1.051,
+					7,
+					1.073,
+					8,
+					1.301,
+					9,
+					0.139,
+					10,
+					0.722,
+					11,
+					0.98,
+					12,
+					0.703,
+					13,
+					0.703,
+					14,
+					0.703,
+					15,
+					1.051,
+					16,
+					0.703,
+					17,
+					0.703,
+					18,
+					0.16,
+					19,
+					0.105,
+					20,
+					0.142,
+					21,
+					0.113,
+					22,
+					0.46,
+					23,
+					1.051,
+					24,
+					1.051,
+					25,
+					1.073,
+					26,
+					0.876,
+					27,
+					0.305,
+					28,
+					0.703,
+					29,
+					0.473,
+					30,
+					0.473,
+					31,
+					1.073,
+					32,
+					0.703,
+					33,
+					1.073,
+					34,
+					0.703,
+					35,
+					0.703,
+					36,
+					0.558,
+					37,
+					1.073,
+					38,
+					0.703,
+					39,
+					0.473,
+					40,
+					0.722,
+					41,
+					0.703,
+					42,
+					1.073,
+					43,
+					0.703,
+					44,
+					0.703,
+					45,
+					0.703,
+					46,
+					1.051,
+					47,
+					0.703,
+					48,
+					0.473,
+					49,
+					0.722,
+					50,
+					0.473,
+					51,
+					0.703,
+					52,
+					1.051,
+					53,
+					1.051,
+					54,
+					1.051,
+					55,
+					0.302,
+					56,
+					0.703,
+					57,
+					0.703,
+					58,
+					0.703,
+					59,
+					0.703,
+					60,
+					0.703,
+					61,
+					0.703,
+					62,
+					0.703,
+					63,
+					0.703,
+					64,
+					0.703,
+					65,
+					0.703,
+					66,
+					1.157,
+					67,
+					0.703,
+					68,
+					0.473,
+					69,
+					0.473,
+					70,
+					0.473,
+					71,
+					1.073,
+					72,
+					0.473,
+					73,
+					0.876,
+					74,
+					0.703,
+					75,
+					0.473,
+					76,
+					0.46,
+					77,
+					0.305,
+					78,
+					0.46,
+					79,
+					0.558,
+					80,
+					0.722,
+					81,
+					0.703,
+					82,
+					0.703,
+					83,
+					1.073,
+					84,
+					0.703,
+					85,
+					0.703,
+					86,
+					0.46,
+					87,
+					0.703,
+					88,
+					0.703,
+					89,
+					1.073,
+					90,
+					0.703,
+					91,
+					0.703,
+					92,
+					0.703,
+					93,
+					0.703,
+					94,
+					0.703,
+					95,
+					0.722,
+					96,
+					0.46,
+					97,
+					0.703,
+					98,
+					0.703,
+					99,
+					0.473,
+					100,
+					0.703,
+					101,
+					0.703,
+					102,
+					1.051,
+					103,
+					0.703,
+					104,
+					0.473,
+					105,
+					0.473,
+					106,
+					0.473,
+					107,
+					0.703,
+					108,
+					0.473,
+					109,
+					0.98,
+					110,
+					1.051,
+					111,
+					1.051,
+					112,
+					0.703,
+					113,
+					0.703,
+					114,
+					0.703,
+					115,
+					0.703,
+					116,
+					0.703,
+					117,
+					1.051,
+					118,
+					0.703,
+					119,
+					0.703,
+					120,
+					0.703,
+					121,
+					0.703,
+					122,
+					0.703,
+					123,
+					0.703,
+					124,
+					0.703,
+					125,
+					0.703,
+					126,
+					1.051,
+					127,
+					0.302,
+					128,
+					1.051,
+					129,
+					1.051,
+					130,
+					0.473,
+					131,
+					0.165,
+					132,
+					0.473,
+					133,
+					0.473,
+					134,
+					0.473,
+					135,
+					0.473,
+					136,
+					0.473,
+					137,
+					0.473,
+					138,
+					0.473,
+					139,
+					0.473,
+					140,
+					1.051,
+					141,
+					0.473,
+					142,
+					0.473,
+					143,
+					1.051,
+					144,
+					1.051,
+					145,
+					1.051,
+					146,
+					1.051
+				]
+			],
+			[
+				"title/_cover.md",
+				[
+					0,
+					3.461,
+					1,
+					3.263,
+					2,
+					3.63
+				]
+			],
+			[
+				"module/_cover.md",
+				[
+					0,
+					2.084,
+					1,
+					1.965,
+					2,
+					2.186
+				]
+			],
+			[
+				"group/_cover.md",
+				[]
+			],
+			[
+				"body/_cover.md",
+				[
+					0,
+					0.644,
+					1,
+					0.607,
+					2,
+					0.822,
+					3,
+					1.225,
+					4,
+					0.111,
+					9,
+					0.134,
+					10,
+					0.825,
+					11,
+					1.071,
+					12,
+					1.225,
+					13,
+					1.225,
+					14,
+					1.225,
+					16,
+					1.225,
+					17,
+					1.225,
+					18,
+					0.157,
+					19,
+					0.088,
+					20,
+					0.134,
+					21,
+					0.088,
+					22,
+					0.526,
+					25,
+					1.225,
+					26,
+					0.825,
+					27,
+					0.372,
+					29,
+					0.825,
+					30,
+					0.825,
+					36,
+					0.526,
+					39,
+					0.825,
+					40,
+					0.825,
+					47,
+					1.225,
+					48,
+					0.825,
+					50,
+					0.825,
+					55,
+					0.526,
+					66,
+					0.825,
+					76,
+					0.526,
+					77,
+					0.287,
+					78,
+					0.526,
+					79,
+					0.526,
+					80,
+					0.825,
+					108,
+					0.825,
+					109,
+					0.825,
+					127,
+					0.526,
+					131,
+					0.287,
+					141,
+					0.825,
+					142,
+					0.825,
+					147,
+					1.59,
+					148,
+					1.833,
+					149,
+					1.225,
+					150,
+					1.833,
+					151,
+					1.225,
+					152,
+					1.833,
+					153,
+					1.225,
+					154,
+					1.225,
+					155,
+					1.833,
+					156,
+					1.225,
+					157,
+					1.833,
+					158,
+					1.225,
+					159,
+					1.225,
+					160,
+					0.825,
+					161,
+					1.833,
+					162,
+					1.225,
+					163,
+					1.071,
+					164,
+					1.225
+				]
+			],
+			[
+				"title/architecture.md",
+				[
+					160,
+					8.714
+				]
+			],
+			[
+				"module/architecture.md",
+				[
+					0,
+					2.084,
+					1,
+					1.965,
+					2,
+					2.186
+				]
+			],
+			[
+				"group/architecture.md",
+				[]
+			],
+			[
+				"body/architecture.md",
+				[
+					0,
+					0.36,
+					1,
+					0.339,
+					2,
+					0.765,
+					4,
+					0.102,
+					9,
+					0.108,
+					10,
+					0.599,
+					11,
+					1.1,
+					18,
+					0.154,
+					19,
+					0.108,
+					20,
+					0.118,
+					21,
+					0.064,
+					22,
+					0.382,
+					26,
+					1.006,
+					27,
+					0.208,
+					28,
+					0.889,
+					29,
+					0.599,
+					30,
+					0.599,
+					31,
+					1.277,
+					32,
+					0.889,
+					33,
+					1.277,
+					34,
+					0.889,
+					35,
+					1.277,
+					36,
+					0.548,
+					37,
+					1.494,
+					38,
+					1.494,
+					39,
+					1.1,
+					40,
+					0.86,
+					41,
+					0.889,
+					42,
+					1.633,
+					43,
+					0.889,
+					44,
+					1.277,
+					45,
+					0.889,
+					48,
+					0.599,
+					49,
+					0.599,
+					50,
+					0.599,
+					51,
+					0.889,
+					68,
+					0.599,
+					69,
+					0.599,
+					70,
+					0.599,
+					72,
+					0.599,
+					73,
+					0.599,
+					75,
+					0.599,
+					76,
+					0.382,
+					77,
+					0.208,
+					78,
+					0.382,
+					79,
+					0.382,
+					95,
+					0.599,
+					99,
+					0.86,
+					103,
+					0.889,
+					104,
+					0.599,
+					105,
+					1.249,
+					106,
+					0.599,
+					107,
+					0.889,
+					108,
+					0.599,
+					109,
+					1.249,
+					112,
+					0.889,
+					113,
+					0.889,
+					114,
+					1.277,
+					115,
+					1.633,
+					116,
+					1.277,
+					118,
+					0.889,
+					119,
+					0.889,
+					120,
+					0.889,
+					121,
+					0.889,
+					122,
+					0.889,
+					123,
+					0.889,
+					124,
+					0.889,
+					125,
+					0.889,
+					131,
+					0.208,
+					141,
+					0.599,
+					142,
+					0.599,
+					147,
+					1.277,
+					149,
+					0.889,
+					151,
+					0.889,
+					153,
+					0.889,
+					154,
+					1.277,
+					156,
+					0.889,
+					158,
+					0.889,
+					159,
+					0.889,
+					160,
+					0.599,
+					165,
+					1.277,
+					166,
+					2.444,
+					167,
+					1.911,
+					168,
+					1.33,
+					169,
+					1.33,
+					170,
+					2.444,
+					171,
+					1.33,
+					172,
+					1.33,
+					173,
+					1.33,
+					174,
+					1.33,
+					175,
+					1.911,
+					176,
+					1.33,
+					177,
+					1.33,
+					178,
+					1.33,
+					179,
+					1.911,
+					180,
+					1.33,
+					181,
+					1.33,
+					182,
+					2.236,
+					183,
+					1.33,
+					184,
+					1.33,
+					185,
+					1.33,
+					186,
+					1.33,
+					187,
+					1.33,
+					188,
+					0.382,
+					189,
+					1.33,
+					190,
+					1.33,
+					191,
+					1.33,
+					192,
+					1.33,
+					193,
+					1.33,
+					194,
+					1.33,
+					195,
+					1.33,
+					196,
+					1.911,
+					197,
+					1.33,
+					198,
+					1.33,
+					199,
+					1.33,
+					200,
+					1.33,
+					201,
+					1.911,
+					202,
+					1.911,
+					203,
+					1.33,
+					204,
+					1.33,
+					205,
+					1.33,
+					206,
+					0.889,
+					207,
+					1.33,
+					208,
+					1.33,
+					209,
+					1.33,
+					210,
+					1.33,
+					211,
+					1.33,
+					212,
+					1.33
+				]
+			],
+			[
+				"title/configuration.md",
+				[
+					55,
+					5.554
+				]
+			],
+			[
+				"module/configuration.md",
+				[
+					0,
+					2.084,
+					1,
+					1.965,
+					2,
+					2.186
+				]
+			],
+			[
+				"group/configuration.md",
+				[]
+			],
+			[
+				"body/configuration.md",
+				[
+					0,
+					0.372,
+					2,
+					0.744,
+					4,
+					0.095,
+					7,
+					0.919,
+					8,
+					1.308,
+					9,
+					0.131,
+					18,
+					0.161,
+					19,
+					0.094,
+					20,
+					0.135,
+					21,
+					0.11,
+					22,
+					0.394,
+					36,
+					0.394,
+					49,
+					0.619,
+					55,
+					0.394,
+					56,
+					0.919,
+					57,
+					0.919,
+					58,
+					0.919,
+					59,
+					0.919,
+					60,
+					0.919,
+					61,
+					0.919,
+					62,
+					0.919,
+					63,
+					0.919,
+					64,
+					0.919,
+					65,
+					0.919,
+					66,
+					0.88,
+					67,
+					0.919,
+					68,
+					0.619,
+					69,
+					0.619,
+					70,
+					0.619,
+					71,
+					1.308,
+					72,
+					0.619,
+					73,
+					0.619,
+					74,
+					0.919,
+					75,
+					0.619,
+					76,
+					0.561,
+					77,
+					0.306,
+					78,
+					0.561,
+					79,
+					0.394,
+					80,
+					0.619,
+					81,
+					0.919,
+					82,
+					0.919,
+					83,
+					1.308,
+					84,
+					0.919,
+					85,
+					0.919,
+					86,
+					0.394,
+					87,
+					0.919,
+					88,
+					0.919,
+					89,
+					1.308,
+					90,
+					0.919,
+					91,
+					0.919,
+					92,
+					0.919,
+					93,
+					0.919,
+					94,
+					0.919,
+					95,
+					0.88,
+					96,
+					0.394,
+					97,
+					0.919,
+					98,
+					0.919,
+					99,
+					0.619,
+					100,
+					0.919,
+					101,
+					0.919,
+					104,
+					0.619,
+					105,
+					0.619,
+					106,
+					0.619,
+					165,
+					0.919,
+					188,
+					0.394,
+					206,
+					1.308,
+					213,
+					1.375,
+					214,
+					1.957,
+					215,
+					1.957,
+					216,
+					1.375,
+					217,
+					1.375,
+					218,
+					1.375,
+					219,
+					1.375,
+					220,
+					1.375,
+					221,
+					1.375,
+					222,
+					1.375,
+					223,
+					1.375
+				]
+			],
+			[
+				"title/examples/README.md",
+				[
+					127,
+					4.418,
+					224,
+					10.296
+				]
+			],
+			[
+				"module/examples/README.md",
+				[
+					0,
+					2.084,
+					1,
+					1.965,
+					2,
+					2.186
+				]
+			],
+			[
+				"group/examples/README.md",
+				[]
+			],
+			[
+				"body/examples/README.md",
+				[
+					0,
+					0.571,
+					1,
+					0.539,
+					2,
+					0.739,
+					4,
+					0.088,
+					9,
+					0.102,
+					18,
+					0.158,
+					19,
+					0.102,
+					20,
+					0.136,
+					21,
+					0.102,
+					27,
+					0.331,
+					86,
+					0.606,
+					96,
+					0.606,
+					127,
+					0.809,
+					130,
+					0.95,
+					131,
+					0.331,
+					132,
+					0.95,
+					133,
+					0.95,
+					134,
+					0.95,
+					135,
+					0.95,
+					136,
+					0.95,
+					137,
+					0.95,
+					138,
+					0.95,
+					139,
+					0.95,
+					162,
+					1.411,
+					163,
+					0.95,
+					164,
+					1.411,
+					188,
+					0.606,
+					224,
+					1.411,
+					225,
+					1.739,
+					226,
+					2.112
+				]
+			],
+			[
+				"title/examples/image_viewer/README.md",
+				[
+					2,
+					4.372,
+					4,
+					0.645
+				]
+			],
+			[
+				"module/examples/image_viewer/README.md",
+				[
+					0,
+					2.084,
+					1,
+					1.965,
+					2,
+					2.186
+				]
+			],
+			[
+				"group/examples/image_viewer/README.md",
+				[]
+			],
+			[
+				"body/examples/image_viewer/README.md",
+				[
+					0,
+					0.607,
+					1,
+					0.572,
+					2,
+					0.766,
+					4,
+					0.094,
+					9,
+					0.108,
+					18,
+					0.148,
+					19,
+					0.108,
+					20,
+					0.139,
+					21,
+					0.108,
+					27,
+					0.351,
+					77,
+					0.351,
+					86,
+					0.643,
+					96,
+					0.643,
+					130,
+					1.009,
+					131,
+					0.351,
+					132,
+					1.009,
+					133,
+					1.009,
+					134,
+					1.009,
+					135,
+					1.009,
+					136,
+					1.009,
+					137,
+					1.009,
+					138,
+					1.009,
+					139,
+					1.009,
+					163,
+					1.009,
+					188,
+					0.643,
+					225,
+					1.499,
+					227,
+					2.243,
+					228,
+					2.243,
+					229,
+					2.243,
+					230,
+					2.243,
+					231,
+					2.243
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"",
+				{
+					"_index": 18,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"1",
+				{
+					"_index": 148,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"abov",
+				{
+					"_index": 25,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"afford",
+				{
+					"_index": 72,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"api",
+				{
+					"_index": 93,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"app",
+				{
+					"_index": 227,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"append",
+				{
+					"_index": 220,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"applic",
+				{
+					"_index": 224,
+					"title": {
+						"examples/README.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/README.md": {}
+					}
+				}
+			],
+			[
+				"architectur",
+				{
+					"_index": 160,
+					"title": {
+						"architecture.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"assign",
+				{
+					"_index": 172,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"back",
+				{
+					"_index": 79,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"basic",
+				{
+					"_index": 164,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"examples/README.md": {}
+					}
+				}
+			],
+			[
+				"behind",
+				{
+					"_index": 85,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"between",
+				{
+					"_index": 101,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"bound",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"box",
+				{
+					"_index": 112,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"browser",
+				{
+					"_index": 77,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"built",
+				{
+					"_index": 39,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"button",
+				{
+					"_index": 75,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"cascad",
+				{
+					"_index": 219,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"checker",
+				{
+					"_index": 84,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"checkerboard",
+				{
+					"_index": 150,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"chrome",
+				{
+					"_index": 70,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"class",
+				{
+					"_index": 168,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"clear",
+				{
+					"_index": 106,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"click",
+				{
+					"_index": 22,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"coexist",
+				{
+					"_index": 156,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"collid",
+				{
+					"_index": 212,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"complet",
+				{
+					"_index": 151,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"complex",
+				{
+					"_index": 162,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"examples/README.md": {}
+					}
+				}
+			],
+			[
+				"config",
+				{
+					"_index": 152,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"configur",
+				{
+					"_index": 55,
+					"title": {
+						"configuration.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"contain",
+				{
+					"_index": 36,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"context",
+				{
+					"_index": 126,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"css",
+				{
+					"_index": 215,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"current",
+				{
+					"_index": 103,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"default",
+				{
+					"_index": 66,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"demo",
+				{
+					"_index": 129,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"depend",
+				{
+					"_index": 53,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"deriv",
+				{
+					"_index": 208,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"desktop",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"detach",
+				{
+					"_index": 104,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"detail",
+				{
+					"_index": 24,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"develop",
+				{
+					"_index": 143,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"dimens",
+				{
+					"_index": 43,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"display",
+				{
+					"_index": 17,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"document",
+				{
+					"_index": 196,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"dom",
+				{
+					"_index": 38,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"download",
+				{
+					"_index": 21,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"driven",
+				{
+					"_index": 47,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"each",
+				{
+					"_index": 139,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"ecosystem",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"element",
+				{
+					"_index": 166,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"embed",
+				{
+					"_index": 201,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"embedd",
+				{
+					"_index": 157,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"empti",
+				{
+					"_index": 59,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"equival",
+				{
+					"_index": 45,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"error",
+				{
+					"_index": 170,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"event",
+				{
+					"_index": 44,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"exampl",
+				{
+					"_index": 127,
+					"title": {
+						"examples/README.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"examples/README.md": {}
+					}
+				}
+			],
+			[
+				"except",
+				{
+					"_index": 195,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"exit",
+				{
+					"_index": 80,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"explicit",
+				{
+					"_index": 62,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"fall",
+				{
+					"_index": 118,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"famili",
+				{
+					"_index": 216,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"feed",
+				{
+					"_index": 204,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"file",
+				{
+					"_index": 205,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"filenam",
+				{
+					"_index": 64,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"fileview",
+				{
+					"_index": 202,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"fill",
+				{
+					"_index": 76,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"fit",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"flip",
+				{
+					"_index": 100,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"floor",
+				{
+					"_index": 97,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"four",
+				{
+					"_index": 130,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"fresh",
+				{
+					"_index": 180,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"friendli",
+				{
+					"_index": 30,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"fullscreen",
+				{
+					"_index": 147,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"github",
+				{
+					"_index": 161,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"handler",
+				{
+					"_index": 105,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"hard",
+				{
+					"_index": 52,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"headless",
+				{
+					"_index": 123,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"heal",
+				{
+					"_index": 186,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"hierarchi",
+				{
+					"_index": 169,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"hint",
+				{
+					"_index": 65,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"host",
+				{
+					"_index": 68,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"href",
+				{
+					"_index": 63,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"id",
+				{
+					"_index": 207,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"imag",
+				{
+					"_index": 2,
+					"title": {
+						"README.md": {},
+						"_cover.md": {},
+						"examples/image_viewer/README.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"image'",
+				{
+					"_index": 111,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"imper",
+				{
+					"_index": 40,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"independ",
+				{
+					"_index": 140,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"inher",
+				{
+					"_index": 41,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"initi",
+				{
+					"_index": 58,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"inlin",
+				{
+					"_index": 193,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"insid",
+				{
+					"_index": 50,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"inspect",
+				{
+					"_index": 23,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"instal",
+				{
+					"_index": 51,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"instanc",
+				{
+					"_index": 188,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"key",
+				{
+					"_index": 56,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"later",
+				{
+					"_index": 178,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"launch",
+				{
+					"_index": 163,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"layout",
+				{
+					"_index": 125,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"len",
+				{
+					"_index": 158,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"level",
+				{
+					"_index": 197,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"lightweight",
+				{
+					"_index": 32,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"likewis",
+				{
+					"_index": 185,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"live",
+				{
+					"_index": 225,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"load",
+				{
+					"_index": 115,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"maxim",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"mean",
+				{
+					"_index": 57,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"measur",
+				{
+					"_index": 113,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"method",
+				{
+					"_index": 94,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"mit",
+				{
+					"_index": 144,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"model",
+				{
+					"_index": 107,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"mount",
+				{
+					"_index": 203,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"mous",
+				{
+					"_index": 149,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"multipl",
+				{
+					"_index": 155,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"multipli",
+				{
+					"_index": 108,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"nativ",
+				{
+					"_index": 28,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"natur",
+				{
+					"_index": 42,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"new",
+				{
+					"_index": 230,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"next",
+				{
+					"_index": 187,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"node",
+				{
+					"_index": 177,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"noth",
+				{
+					"_index": 121,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"null",
+				{
+					"_index": 198,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"on",
+				{
+					"_index": 141,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"onc",
+				{
+					"_index": 154,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"open",
+				{
+					"_index": 229,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"option",
+				{
+					"_index": 213,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"ordinari",
+				{
+					"_index": 48,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"otherwis",
+				{
+					"_index": 117,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"out",
+				{
+					"_index": 96,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"over",
+				{
+					"_index": 184,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"overrid",
+				{
+					"_index": 222,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"overview",
+				{
+					"_index": 159,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"own",
+				{
+					"_index": 69,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"page",
+				{
+					"_index": 142,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"paint",
+				{
+					"_index": 174,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"pan",
+				{
+					"_index": 27,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"panel",
+				{
+					"_index": 175,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"panorama",
+				{
+					"_index": 135,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"per",
+				{
+					"_index": 221,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"percentag",
+				{
+					"_index": 119,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"persist",
+				{
+					"_index": 190,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"phone",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"photo",
+				{
+					"_index": 133,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"pict",
+				{
+					"_index": 0,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"pixel",
+				{
+					"_index": 116,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"placement",
+				{
+					"_index": 91,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"png",
+				{
+					"_index": 86,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"point",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"pre",
+				{
+					"_index": 124,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"present",
+				{
+					"_index": 99,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"programmat",
+				{
+					"_index": 194,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"project",
+				{
+					"_index": 16,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"properti",
+				{
+					"_index": 167,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"public",
+				{
+					"_index": 92,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"raster",
+				{
+					"_index": 132,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"re",
+				{
+					"_index": 182,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"read",
+				{
+					"_index": 87,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"reader",
+				{
+					"_index": 110,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"real",
+				{
+					"_index": 114,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"rebuild",
+				{
+					"_index": 179,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"record",
+				{
+					"_index": 173,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"recov",
+				{
+					"_index": 181,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"recoveri",
+				{
+					"_index": 171,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"regist",
+				{
+					"_index": 218,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"remov",
+				{
+					"_index": 199,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"render",
+				{
+					"_index": 49,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"replac",
+				{
+					"_index": 176,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"reset",
+				{
+					"_index": 95,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"respons",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"restor",
+				{
+					"_index": 74,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"retold/pict",
+				{
+					"_index": 5,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"return",
+				{
+					"_index": 98,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"run",
+				{
+					"_index": 228,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"runnabl",
+				{
+					"_index": 128,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"scroll",
+				{
+					"_index": 26,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"section",
+				{
+					"_index": 1,
+					"title": {
+						"README.md": {},
+						"_cover.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"self",
+				{
+					"_index": 153,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"set",
+				{
+					"_index": 67,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"shape",
+				{
+					"_index": 34,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"show",
+				{
+					"_index": 71,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"singl",
+				{
+					"_index": 31,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"size",
+				{
+					"_index": 109,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"stage",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"stamp",
+				{
+					"_index": 183,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"standalon",
+				{
+					"_index": 131,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"standard",
+				{
+					"_index": 90,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"state",
+				{
+					"_index": 189,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"step",
+				{
+					"_index": 89,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"steven",
+				{
+					"_index": 145,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"stub",
+				{
+					"_index": 35,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"style",
+				{
+					"_index": 214,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"subtl",
+				{
+					"_index": 82,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"summari",
+				{
+					"_index": 226,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/README.md": {}
+					}
+				}
+			],
+			[
+				"svg",
+				{
+					"_index": 138,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"tab",
+				{
+					"_index": 231,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"tablet",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"tall",
+				{
+					"_index": 136,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"target",
+				{
+					"_index": 200,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"teardown",
+				{
+					"_index": 191,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"templat",
+				{
+					"_index": 37,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"text",
+				{
+					"_index": 61,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"through",
+				{
+					"_index": 206,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"throw",
+				{
+					"_index": 122,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"toggl",
+				{
+					"_index": 81,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"token",
+				{
+					"_index": 217,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"toolbar",
+				{
+					"_index": 19,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"touch",
+				{
+					"_index": 29,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"transpar",
+				{
+					"_index": 83,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"tv",
+				{
+					"_index": 15,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"two",
+				{
+					"_index": 210,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"until",
+				{
+					"_index": 60,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"url",
+				{
+					"_index": 8,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"us",
+				{
+					"_index": 192,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"usabl",
+				{
+					"_index": 46,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"usag",
+				{
+					"_index": 54,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"vector",
+				{
+					"_index": 137,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"velozo",
+				{
+					"_index": 146,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"via",
+				{
+					"_index": 223,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"view",
+				{
+					"_index": 33,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"view'",
+				{
+					"_index": 209,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"viewer",
+				{
+					"_index": 4,
+					"title": {
+						"examples/image_viewer/README.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"viewport",
+				{
+					"_index": 78,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"whether",
+				{
+					"_index": 102,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"whole",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"wide",
+				{
+					"_index": 134,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			],
+			[
+				"width",
+				{
+					"_index": 120,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"wire",
+				{
+					"_index": 165,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {},
+						"configuration.md": {}
+					}
+				}
+			],
+			[
+				"without",
+				{
+					"_index": 211,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"architecture.md": {}
+					}
+				}
+			],
+			[
+				"zoom",
+				{
+					"_index": 20,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"architecture.md": {},
+						"configuration.md": {},
+						"examples/README.md": {},
+						"examples/image_viewer/README.md": {}
+					}
+				}
+			]
+		],
+		"pipeline": [
+			"stemmer"
+		]
+	},
+	"Documents": {
+		"README.md": {
+			"Title": "pict-section-image",
+			"Module": "pict-section-image",
+			"Group": "",
+			"DocPath": "README.md"
+		},
+		"_cover.md": {
+			"Title": "Pict Section Image",
+			"Module": "pict-section-image",
+			"Group": "",
+			"DocPath": "_cover.md"
+		},
+		"architecture.md": {
+			"Title": "Architecture",
+			"Module": "pict-section-image",
+			"Group": "",
+			"DocPath": "architecture.md"
+		},
+		"configuration.md": {
+			"Title": "Configuration",
+			"Module": "pict-section-image",
+			"Group": "",
+			"DocPath": "configuration.md"
+		},
+		"examples/README.md": {
+			"Title": "Example Applications",
+			"Module": "pict-section-image",
+			"Group": "",
+			"DocPath": "examples/README.md"
+		},
+		"examples/image_viewer/README.md": {
+			"Title": "Image Viewer",
+			"Module": "pict-section-image",
+			"Group": "",
+			"DocPath": "examples/image_viewer/README.md"
+		}
+	}
+}

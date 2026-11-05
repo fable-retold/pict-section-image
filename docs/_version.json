@@ -1,0 +1,7 @@
+{
+	"Name": "pict-section-image",
+	"Version": "1.0.0",
+	"Description": "Pict image viewer section — a responsive, zoom-and-pan image lens that renders well on phones, tablets, desktops and projected displays. Standalone, or driven as the ordinary-image renderer inside pict-section-fileview.",
+	"GeneratedAt": "2026-11-02T16:06:49.177Z",
+	"GitCommit": "4a46153"
+}
